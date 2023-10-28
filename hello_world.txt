@@ -1,0 +1,1 @@
+Learning the basis commands of git trough "The Odin Project" course
